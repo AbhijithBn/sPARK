@@ -40,7 +40,6 @@ const styles = StyleSheet.create({
         alignSelf: "center",
         alignItems: "center",
         padding:20
-        // justifyContent: "center"
         }
     });
   

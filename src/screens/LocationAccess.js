@@ -17,7 +17,7 @@ const LocationAccess = ({ navigation }) => {
 
       <Header>Location Access</Header>
 
-      <Button mode="contained" onPress={() => navigation.navigate("Dashboard")}>
+      <Button mode="contained" onPress={() => navigation.navigate("ChoiceScreen")}>
         Accept
       </Button>
 

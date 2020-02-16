@@ -5,3 +5,4 @@ export { default as ForgotPasswordScreen } from './ForgotPasswordScreen';
 export { default as Dashboard } from './Dashboard';
 export { default as AuthLoadingScreen } from './AuthLoadingScreen';
 export { default as LocationAccess } from './LocationAccess';
+export { default as ChoiceScreen } from './ChoiceScreen';

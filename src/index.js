@@ -8,11 +8,13 @@ import {
   ForgotPasswordScreen,
   AuthLoadingScreen,
   Dashboard,
-  LocationAccess
+  LocationAccess,
+  ChoiceScreen,
 } from "./screens";
 
 const Router = createStackNavigator(
   {
+    ChoiceScreen,
     LocationAccess,
     HomeScreen,
     LoginScreen,
